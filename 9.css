@@ -1,0 +1,15 @@
+.text{
+	height:50px;
+	width:250px;
+}
+.butop{
+	font-size: 25px;
+	height: 70px;
+	width: 70px;
+	background-color: black;
+	border-color: black;
+                 color: white;
+}
+html,body{
+border-style: solid;
+}
